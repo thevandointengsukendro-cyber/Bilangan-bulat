@@ -1,0 +1,6 @@
+{
+  "name": "Kolam Bilangan Bulat",
+  "description": "Media pembelajaran matematika interaktif untuk konsep bilangan bulat positif, negatif, operasi, dan perbandingan menggunakan simulasi kolam air.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
